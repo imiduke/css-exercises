@@ -1,10 +1,21 @@
 /* Add CSS Styling */
 
-p {
+.class-a {
     background-color: #FFB6C1;
     font-family: Verdana, dejavu sans, sans-serif;
 }
 
 .cooler {
     color: rgb(66, 8, 105)
+}
+
+#blue {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#green {
+    background-color: rgba(118, 214, 137, 0.848);
+    font-size: 24px;
+    font-weight: 800;
 }
