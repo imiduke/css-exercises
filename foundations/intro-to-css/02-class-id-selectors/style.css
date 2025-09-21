@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+p {
+    background-color: #FFB6C1;
+    font-family: Verdana, dejavu sans, sans-serif;
+}
+
+.cooler {
+    color: rgb(66, 8, 105)
+}
